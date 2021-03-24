@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 fe
+=======
+feng
+>>>>>>> 980ffe997e51ceac8ebdfd56528764992ad357da
